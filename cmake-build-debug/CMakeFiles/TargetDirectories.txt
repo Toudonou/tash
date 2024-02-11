@@ -1,0 +1,3 @@
+/home/toudonou/Desktop/tash/cmake-build-debug/CMakeFiles/tash.dir
+/home/toudonou/Desktop/tash/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/toudonou/Desktop/tash/cmake-build-debug/CMakeFiles/rebuild_cache.dir
